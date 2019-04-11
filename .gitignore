@@ -4,3 +4,5 @@ cianmon.egg-info/
 build/
 dist/
 *.swp
+.idea
+venv/
